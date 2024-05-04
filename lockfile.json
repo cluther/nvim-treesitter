@@ -276,7 +276,7 @@
     "revision": "577259b4068b2c281c9ebf94c109bd50a74d5857"
   },
   "hcl": {
-    "revision": "e936d3fef8bac884661472dce71ad82284761eb1"
+    "revision": "fbfdd2ebc7a4d76f9600ada9cb64628785427330"
   },
   "heex": {
     "revision": "b5ad6e34eea18a15bbd1466ca707a17f9bff7b93"
@@ -714,7 +714,7 @@
     "revision": "c06e7bf0edfa211f6a7665a3c7fa25c1198850b2"
   },
   "terraform": {
-    "revision": "e936d3fef8bac884661472dce71ad82284761eb1"
+    "revision": "fbfdd2ebc7a4d76f9600ada9cb64628785427330"
   },
   "textproto": {
     "revision": "8dacf02aa402892c91079f8577998ed5148c0496"

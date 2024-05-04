@@ -849,10 +849,10 @@ list.haskell_persistent = {
 
 list.hcl = {
   install_info = {
-    url = "https://github.com/MichaHoffmann/tree-sitter-hcl",
+    url = "https://github.com/cluther/tree-sitter-hcl",
     files = { "src/parser.c", "src/scanner.c" },
   },
-  maintainers = { "@MichaHoffmann" },
+  maintainers = { "@cluther" },
 }
 
 list.heex = {
@@ -2068,11 +2068,11 @@ list.tcl = {
 
 list.terraform = {
   install_info = {
-    url = "https://github.com/MichaHoffmann/tree-sitter-hcl",
+    url = "https://github.com/cluther/tree-sitter-hcl",
     files = { "src/parser.c", "src/scanner.c" },
     location = "dialects/terraform",
   },
-  maintainers = { "@MichaHoffmann" },
+  maintainers = { "@cluther" },
 }
 
 list.textproto = {
